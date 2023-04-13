@@ -12,4 +12,6 @@
 
 ![](https://github.com/ssonyau/-Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20191350.png)
 
-3)Для того, щоб перевірити, що все працює, переходимо в браузер і набираємо http://localhost/dashboard. Якщо все працює, то має провантажитись сторінка.
+3) Для того, щоб перевірити, що все працює, переходимо в браузер і набираємо http://localhost/dashboard. Якщо все працює, то має провантажитись сторінка.
+
+![](https://github.com/ssonyau/-Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20191350.png)
