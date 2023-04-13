@@ -7,6 +7,7 @@
 
 ![](https://github.com/ssonyau/-Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20184853.png)
 
-Після встановлення запускаємо і у Вас має з'явитися вікно. У якому натискаємо Start Apache і Start MySQL. Після цього Ваш локальний сервер налаштований.
+Після встановлення запускаємо і у Вас має з'явитися вікно. У якому натискаємо Start Apache і Start MySQL.Після цього Ваш локальний сервер налаштований.
+
 
 ![](https://github.com/ssonyau/-Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20191350.png)
