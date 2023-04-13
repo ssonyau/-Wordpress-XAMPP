@@ -17,3 +17,7 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20195058.png)
 
 Саме на  localhost ми будемо встановлювати наш WordPress і надалі налаштовуватимемо його.
+
+###  4) Далі переходимо на локальний Диск(:С) і знаходимо папку xampp. Відкриваємо її і тут нас цікавить папка htdocs.
+
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20195058.png)
