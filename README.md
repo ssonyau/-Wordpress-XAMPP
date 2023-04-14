@@ -43,4 +43,4 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20120646.png)
 
 #### 4) Натискаємо кнопку Почати встановлення.
-![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20120646.png)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20121519.png)
