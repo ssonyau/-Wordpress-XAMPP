@@ -26,4 +26,4 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20105215.png)
 
 #### 2) Після встановлення Wordpress переносимо цей архів знову до папки htdocs.
-![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20105215.png)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20105540.png)
