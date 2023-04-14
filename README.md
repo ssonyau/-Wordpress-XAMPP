@@ -40,4 +40,4 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20114616.png)
 
 #### 3) Повертаємось до нашого установника, пишемо в полі "Ім'я Користувача" root - це наш користувач за замовчуванням. Поле "Пароль" залишаємо порожнім. І потім натискаємо кнопку Готово.
-![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20114616.png)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20120646.png)
