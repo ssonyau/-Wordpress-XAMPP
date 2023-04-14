@@ -55,4 +55,4 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20123146.png)
 
 #### Ось так буде виглядати створенний сайт.
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20123844.png)
