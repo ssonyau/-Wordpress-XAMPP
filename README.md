@@ -33,3 +33,5 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20112636.png)
 
 ## Створення бази даних на Wordpress
+#### 1) Переходимо в ХAMPP, і натискаємо навпроти MySQL кнопку Admin
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20112636.png)
