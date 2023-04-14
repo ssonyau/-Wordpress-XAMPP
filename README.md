@@ -30,4 +30,4 @@
 
 #### 3) Після цього повертаємось на наш локальний сервер, видаляємо все зайве та звертаємось до папки http://localhost. 
 #### Після цього у нас починається налаштування Wordpress, тиснемо кнопку Вперед.
-![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20105540.png)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20112636.png)
