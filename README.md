@@ -49,4 +49,4 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20122108.png)
 
 #### 6) Вводимо дані для входу, які щойно створювали.
-![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20122108.png)
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20122923.png)
