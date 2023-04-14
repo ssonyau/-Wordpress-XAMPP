@@ -44,3 +44,6 @@
 
 #### 4) Натискаємо кнопку Почати встановлення.
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20121519.png)
+
+#### 5) Заповнюємо всю необхідну інформацію та натискаємо кнопку Встановити Wordpress.
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20121519.png)
