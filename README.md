@@ -35,3 +35,6 @@
 ## Створення бази даних на Wordpress
 #### 1) Переходимо в ХAMPP, і натискаємо навпроти MySQL кнопку Admin
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20113743.png)
+
+#### 2) Після запуску PhpMyAdmin, йдемо в розд Створити БД(База Даних). Викликаємо та натискаємо кнопку Створити.
+![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20113743.png)
