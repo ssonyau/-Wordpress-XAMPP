@@ -22,5 +22,5 @@
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-13%20200605.png)
 
 ## Встановлення Wordpress
-#### Заходимо на офіційний сайт http://wirdpress.org/download/, спускаємося вниз і натискаємо скачати.
+#### Заходимо на офіційний сайт http://wordpress.org/download/, спускаємося вниз і натискаємо скачати.
 ![](https://github.com/ssonyau/Wordpress-XAMPP/blob/main/Screenshot%202023-04-14%20105215.png)
